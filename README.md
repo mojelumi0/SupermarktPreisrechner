@@ -17,7 +17,12 @@ Stelle sicher, dass du die erforderlichen Abhängigkeiten installiert hast (Pyth
 
 1. Gib eine Zahl in das Eingabefeld ein.
 2. Drücke die Eingabetaste oder klicke auf den "Berechnen"-Button.
-3. Das Ergebnis wird angezeigt und in der Historie gespeichert (falls aktiviert).
+3. Das Ergebnis wird angezeigt und in der Historie gespeichert (falls aktiviert!).
+4. Um das Programm zu schließen, drücke die **Escape-Taste** oder klicke auf den **Fenster schließen**-Knopf.
+
+## Historie
+
+Die Historie wird in einer XML-Datei namens `history.xml` gespeichert, die sich im gleichen Verzeichnis wie die `main.py`-Datei befindet (falls die Historie aktiviert ist).
 
 ## Autoren
 
