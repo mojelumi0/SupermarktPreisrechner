@@ -6,7 +6,7 @@ Supermarkt Preisrechner ist ein Python-Programm, mit dem man in Supermarkt-Simul
 
 Um das Projekt herunterzuladen, folge diesen Schritten:
 
-1. Gehe auf die Seite: [https://github.com/mojelumi0/PreisAssistant](https://github.com/mojelumi0/PreisAssistant)
+1. Gehe auf die Seite: [https://github.com/mojelumi0/SupermarktPreisrechner](https://github.com/mojelumi0/SupermarktPreisrechner)
 2. Klicke auf "Code" und dann auf "Download ZIP".
 3. Der ZIP-Ordner wird in deinem Download-Ordner gespeichert. Extrahiere ihn.
 4. Nach dem Extrahieren findest du die Datei `main.py` im Ordner. Öffne sie.
