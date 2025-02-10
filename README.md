@@ -1,7 +1,6 @@
 # Supermarket Together Preisrechner
 
 
-Beschreibung
 
 Supermarket Together Preisrechner ist eine Anwendung, die es Benutzern ermöglicht, Preise zu berechnen und eine Historie der Berechnungen zu speichern. Die Anwendung bietet eine benutzerfreundliche Oberfläche und unterstützt sowohl den Vollbildmodus als auch die Eingabe von Zahlen im deutschen Format.
 
