@@ -1,36 +1,28 @@
-# Supermarket Together Preisrechner
+# Supermarkt Preisrechner
 
+Supermarkt Preisrechner ist ein Python-Programm, mit dem man in Supermarkt-Simulatoren Preise berechnen kann. Es multipliziert den Marktpreis mit 2 und subtrahiert dann 0,05, um den endgültigen Preis zu ermitteln.
 
-
-Supermarket Together Preisrechner ist eine Anwendung, die es Benutzern ermöglicht, Preise zu berechnen und eine Historie der Berechnungen zu speichern. Die Anwendung bietet eine benutzerfreundliche Oberfläche und unterstützt sowohl den Vollbildmodus als auch die Eingabe von Zahlen im deutschen Format.
-
-
-
-# Download
+## Download
 
 Um das Projekt herunterzuladen, folge diesen Schritten:
 
-Lade das Repository herunter:
+1. Gehe auf die Seite: [https://github.com/mojelumi0/PreisAssistant](https://github.com/mojelumi0/PreisAssistant)
+2. Klicke auf "Code" und dann auf "Download ZIP".
+3. Der ZIP-Ordner wird in deinem Download-Ordner gespeichert. Extrahiere ihn.
+4. Nach dem Extrahieren findest du die Datei `main.py` im Ordner. Öffne sie.
 
-Gehe auf die Seite https://github.com/mojelumi0/SupermarketTogetherPreisrechner
+Stelle sicher, dass du die erforderlichen Abhängigkeiten installiert hast (Python; zum Bearbeiten wird Microsoft Visual Studio Code empfohlen).
 
-Dann gehe auf "Code" und "Download Zip"
-Du findest den Zip-Ordner in deinem Download-Ordner, extrahiere ihn.
-Wenn du das gemacht hast findest du eine main.py Datei in dem Ordner, öffne sie.
+## Anwendung verwenden
 
-Stelle bevor du die Datei öffnest sicher, dass du die erforderlichen Abhängigkeiten installiert hast. (Python; Zum Bearbeiten Microsoft Visual Studio Code)
+1. Gib eine Zahl in das Eingabefeld ein.
+2. Drücke die Eingabetaste oder klicke auf den "Berechnen"-Button.
+3. Das Ergebnis wird angezeigt und in der Historie gespeichert (falls aktiviert).
 
-# Um die Anwendung zu verwenden:
+## Autoren
 
-Gib eine Zahl in das Eingabefeld ein und drücke die Eingabetaste oder klicke auf den "Berechnen"-Button.
-Das Ergebnis wird angezeigt und in der Historie gespeichert (falls aktiviert!)
+Dieses Projekt wurde von **mojelumi** erstellt.
 
+## Mitwirkende
 
-# Autoren
-
-Dieses Projekt wurde von mojelumi erstellt. 
-
-# Mitwirkende:
-
-Lukas (~ derteddy0)
-
+**Lukas** (~ derteddy0)
