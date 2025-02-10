@@ -8,25 +8,19 @@ Supermarket Together Preisrechner ist eine Anwendung, die es Benutzern ermöglic
 
 # Download
 
-Um das Projekt zu installieren, folge diesen Schritten:
+Um das Projekt herunterzuladen, folge diesen Schritten:
 
-Klone das Repository:
+Lade das Repository herunter:
 
-git clone https://github.com/mojelumi0/SupermarketTogetherPreisrechner.git
+Gehe auf die Seite https://github.com/mojelumi0/SupermarketTogetherPreisrechner
 
-Navigiere in das Projektverzeichnis:
+Dann gehe auf "Code" und "Download Zip"
+Du findest den Zip-Ordner in deinem Download-Ordner, extrahiere ihn.
+Wenn du das gemacht hast findest du eine main.py Datei in dem Ordner, öffne sie.
 
-cd SupermarketTogetherPreisrechner
-
-Stelle sicher, dass du die erforderlichen Abhängigkeiten installiert hast. (Python; Zum Bearbeiten Microsoft Visual Studio Code)
-
-
+Stelle bevor du die Datei öffnest sicher, dass du die erforderlichen Abhängigkeiten installiert hast. (Python; Zum Bearbeiten Microsoft Visual Studio Code)
 
 # Um die Anwendung zu verwenden:
-
-Starte das Programm:
-
-python main.py
 
 Gib eine Zahl in das Eingabefeld ein und drücke die Eingabetaste oder klicke auf den "Berechnen"-Button.
 Das Ergebnis wird angezeigt und in der Historie gespeichert (falls aktiviert!)
