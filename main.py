@@ -3,6 +3,13 @@
 #  
 #  Coded by mojelumi (~ mojelumi0)
 
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# Hey, thanks for downloading my "program". Hope you like it.
+# Just set fullscreen mode and so on in lines 10 - 13.
+#
+# Coded by mojelumi (~ mojelumi0)
+
 import tkinter as tk
 import xml.etree.ElementTree as ET
 import locale
