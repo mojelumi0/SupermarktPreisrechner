@@ -1,12 +1,12 @@
 #  Hey danke das du mein "Programm" heruntergeladen hast. Hoffe es gefällt dir.
-#  Fullscreen-Modus und so weiter einfach einstellen in den Zeilen 10 - 13.
+#  
 #  
 #  Coded by mojelumi (~ mojelumi0)
 
 # -----------------------------------------------------------------------------------------------------------------------------
 
 # Hey, thanks for downloading my "program". Hope you like it.
-# Just set fullscreen mode and so on in lines 10 - 13.
+# 
 #
 # Coded by mojelumi (~ mojelumi0)
 
