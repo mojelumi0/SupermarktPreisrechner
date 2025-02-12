@@ -316,7 +316,8 @@ class PriceCalculatorApp:
             input_text = self.input_entry.get().replace(",", ".")
             number = float(input_text)
             result = (number * 2) - self.settings["deduction_amount"]
-            self.result_label.config(text=texts[self.language]["result"].format(result))
+            # Ergebnis auf 2 Dezimalstellen gerundet anzeigen
+            self.result_label.config(text=texts[self.language]["result"].format(f"{result:.2f}"))
             self.save_history(result)
         except ValueError:
             self.result_label.config(text=texts[self.language]["error"])
