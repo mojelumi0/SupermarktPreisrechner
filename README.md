@@ -1,6 +1,6 @@
 # Supermarkt Preisrechner
 
-Supermarkt Preisrechner ist ein Python-Programm, mit dem man in Supermarkt-Simulatoren Preise berechnen kann. Es multipliziert den Marktpreis mit 2 und subtrahiert dann 0,05, um den endgültigen Preis zu ermitteln.
+Supermarkt Preisrechner ist ein Python-Programm, mit dem man in Supermarkt-Simulatoren Preise berechnen kann. Es multipliziert den Marktpreis mit 2 und subtrahiert dann 0,01, um den endgültigen Preis zu ermitteln.
 
 ## Download
 
