@@ -36,7 +36,7 @@ def load_config():
         return {
             "history_file": "history.xml",
             "max_history": 5,
-            "deduction_amount": 0.05,
+            "deduction_amount": 0.01,
             "fullscreen_mode": False,
             "history_enabled": True,
             "theme": "light"
