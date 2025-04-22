@@ -24,7 +24,7 @@ Stelle sicher, dass du die erforderlichen Abhängigkeiten installiert hast (Pyth
 
 Die Historie wird in einer XML-Datei namens `history.xml` gespeichert, die sich im gleichen Verzeichnis wie die `main.py`-Datei befindet (falls die Historie aktiviert ist).
 
-## Autoren
+## Autor
 
 Dieses Projekt wurde von **mojelumi** erstellt.
 
